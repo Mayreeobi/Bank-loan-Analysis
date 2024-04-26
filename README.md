@@ -21,3 +21,8 @@ In the competitive landscape of financial institutions, efficient loan processin
 -	Segments borrowers based on their income levels and loan amounts.
 -	How does the distribution of loan vary across different locations.
 - What is the distribution of loan terms in the loan portfolio.
+
+## Tools Used: 
+SQL and Power BI
+- Check SQL Script [Here](https://github.com/Mayreeobi/Bank-loan-Analysis/blob/main/bank_loan.sql) 
+- Interactive Dashboard [Here](https://app.powerbi.com/view?r=eyJrIjoiNTM0NTI4NTUtZDgwNS00ZTI2LWEwY2MtZTZjMmZhNzBiNTBkIiwidCI6ImExZGNjNGZiLTRlYzAtNGI1Ni04NDg1LTRmOTgzYzMyODY0MiJ9)
