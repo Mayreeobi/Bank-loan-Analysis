@@ -1,4 +1,4 @@
-# Bank-loan-Analysis
+# Bank loan optimization and risk management
 
 ## Problem Statement
 The bank loan department wants to optimize and minimize the risk associated with loan repayment or defaulters. They have collected extensive data on past and current loan applications and want to leverage this data to improve decision-making for future loan repayment processes.
