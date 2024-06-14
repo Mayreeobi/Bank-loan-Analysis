@@ -2,6 +2,7 @@
 
 ## Problem Statement
 The bank loan department wants to optimize and minimize the risk associated with loan repayment or defaulters. They have collected extensive data on past and current loan applications and want to leverage this data to improve decision-making for future loan repayment processes.
+- SQL Script [Here](https://github.com/Mayreeobi/Bank-loan-Analysis/blob/main/bank_loan.sql) 
 
 ## Business Case Study
 In the competitive landscape of financial institutions, efficient loan processing and risk management are crucial for sustained success. Our client, a prominent bank, has recognized the importance of data-driven decision-making in their lending operations. They have accumulated a substantial amount of historical loan application data, including borrower demographics, financial details, loan terms, oan status, purpose, and repayment behavior.
@@ -22,7 +23,9 @@ In the competitive landscape of financial institutions, efficient loan processin
 -	How does the distribution of loan vary across different locations.
 - What is the distribution of loan terms in the loan portfolio.
 
+
 ## Tools Used: 
 SQL and Power BI
-- Check SQL Script [Here](https://github.com/Mayreeobi/Bank-loan-Analysis/blob/main/bank_loan.sql) 
+
 - Interactive Dashboard [Here](https://app.powerbi.com/view?r=eyJrIjoiNTM0NTI4NTUtZDgwNS00ZTI2LWEwY2MtZTZjMmZhNzBiNTBkIiwidCI6ImExZGNjNGZiLTRlYzAtNGI1Ni04NDg1LTRmOTgzYzMyODY0MiJ9)
+- Findings & Recommendation [Here](https://github.com/Mayreeobi/Bank-loan-Analysis/blob/main/Unlocking%20the%20Potential.pdf)
