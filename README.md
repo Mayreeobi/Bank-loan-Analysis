@@ -27,5 +27,5 @@ In the competitive landscape of financial institutions, efficient loan processin
 ## Tools Used: 
 SQL and Tableau
 
-- Interactive Dashboard [Here]([https://app.powerbi.com/view?r=eyJrIjoiNTM0NTI4NTUtZDgwNS00ZTI2LWEwY2MtZTZjMmZhNzBiNTBkIiwidCI6ImExZGNjNGZiLTRlYzAtNGI1Ni04NDg1LTRmOTgzYzMyODY0MiJ9](https://public.tableau.com/views/BankLoanReport_17243730632290/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+- Interactive Dashboard [Here](https://public.tableau.com/views/BankLoanReport_17243730632290/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - Findings & Recommendation [Here](https://github.com/Mayreeobi/Bank-loan-Analysis/blob/main/Unlocking%20the%20Potential.pdf)
